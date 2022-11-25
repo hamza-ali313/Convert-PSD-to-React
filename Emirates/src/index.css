@@ -1,0 +1,269 @@
+body {
+  background-image: url("./images//home44.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+ul,li{
+    margin: 0;
+    padding: 0;
+
+}
+div#root {
+  width: 980px;
+  margin: 0 auto;
+}
+.Emirates-sec .upperMost {
+  background-image: url("./images/trans.png");
+  padding: 13px 13px;
+}
+.Emirates-sec .upperMost .header-logo {
+  background-image: url("./images/trans80.png");
+  background-size: cover;
+  background-position: center;
+}
+.Emirates-sec .upperMost .header-logo {
+  width: 100%;
+  padding: 30px 0;
+  text-align: center;
+}
+.upperMostright {
+  background-image: url("./images/trans80.png");
+  padding: 10px 14px 15px 23px;
+  background-size: cover;
+  background-position: center;
+}
+.upperMostright .bottom a {
+  background-image: url("./images/lang-btn.png");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  line-height: 26px;
+  padding: 4px 15px 5px 15px;
+  text-decoration: none;
+  color: #7b7979;
+  margin-right: 3px;
+  font-weight: 700;
+}
+.box img {
+  width: 80px;
+  margin-bottom: 13px;
+}
+.upperMostright .bottom {
+  margin-top: 35px;
+}
+.localTime {
+  font-family: Candara, Arial;
+  font-size: 12px;
+  color: #5c5e61;
+  text-decoration: none;
+}
+.localDate {
+  font-family: Arial;
+  font-size: 32px;
+  color: #5c5e61;
+  text-decoration: none;
+  line-height: 0px;
+}
+.signInbtn-sec a {
+    margin: 0 0 0 11px;
+    border-radius: 6px;
+}
+.signInbtn-sec a.lang-btn,
+a.singin-btn {
+  background: transparent url("./images/lang-btn.png") no-repeat center;
+  color: #000;
+  display: block;
+  font-size: 12px;
+  height: 23px;
+  width: 102px;
+  text-decoration: none;
+  overflow: hidden;
+  vertical-align: baseline;
+  text-align: center;
+  font-family: Tahoma;
+}
+a.btn-red-m {
+  background: transparent url("./images/btn-red-m.png") no-repeat center;
+  color: #fff;
+  display: block;
+  font: 14px arial, sans-serif;
+  height: 23px;
+  width: 190px;
+  text-decoration: none;
+  overflow: hidden;
+  vertical-align: baseline;
+  text-align: center;
+}
+.signInbtn-sec {
+  display: flex;
+  align-items: center;
+  justify-content: end;
+}
+.boxes-sec .box {
+  background-image: url("./images/trans70b.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  text-align: center;
+  padding: 40px 0px;
+  position: relative;
+}
+.boxes-sec .box .title p {
+  color: #fff;
+  line-height: 4px;
+}
+.boxes-sec .box a {
+  text-decoration: none;
+}
+.boxes-sec .box-outer {
+  background-image: url("./images/trans.png");
+  padding: 8px 10px;
+  position: relative;
+}
+
+section.boxes-sec {
+  margin: 22px 0 0 0;
+}
+.boxes-sec .box .circle-text {
+  position: absolute;
+  z-index: 11;
+  left: 77px;
+  top: 31px;
+  color: #fff;
+  font-size: 15px;
+  font-weight: bold;
+  background: #e51837;
+  padding: 0 4px;
+  border-radius: 50%;
+  border: solid 3px #fff;
+  line-height: 34px;
+}
+.lower-sec .lower-child {
+  background-color: #fff;
+}
+.lower-sec .lower-child .text {
+  text-align: center;
+  padding: 29px 0 0 6px;
+  font-size: 12px;
+  color: #abacad;
+}
+.lower-sec .lower-child img {
+  width: 100%;
+}
+.lower-sec .upper-child {
+  background-color: #2e2f31;
+  height: 520px;
+  color: #acacad;
+  padding: 31px 16px 0 27px;
+  margin-top: 14px;
+}
+.upper-child .links-sec .txt {
+  font-size: 13px;
+}
+.terms-con a,
+.learn-more a {
+  color: #838484;
+  text-decoration: none;
+}
+.terms-con a:hover,
+.learn-more a:hover {
+  color: #e51837;
+}
+.terms-con a svg,
+.learn-more a svg {
+  color: #e51837;
+}
+.social-icons svg {
+  border: 2px solid;
+  padding: 8px 8px;
+  font-size: 21px;
+  margin-left: 15px;
+  border-radius: 50%;
+}
+.social-icons .facebook {
+  padding: 8px 13px;
+}
+.social-icons .twitter:hover {
+   color: #fff;
+    border: 2px solid #1cb7eb;
+    background-color: #1cb7eb;
+}
+.social-icons .facebook:hover {
+    color: #fff;
+    border: 2px solid #4e71a8;
+    background-color: #4e71a8;
+}
+.social-icons .google:hover {
+    color: #fff;
+    border: 2px solid #e3411f;
+    background-color: #e3411f;
+}
+.social-icons .youtube:hover {
+    color: #fff;
+    border: 2px solid #ca3737;
+    background-color: #ca3737;
+}
+.social-icons .instagram:hover {
+    color: #fff;
+    border: 2px solid #895a4d;
+    background-color: #895a4d;
+}
+.social-icons a {
+  color: #838484;
+}
+.footer-links li {
+  list-style-type: disc;
+}
+.footer-links li a {
+  color: #838484;
+  text-decoration: none;
+  font-size: 13px;
+}
+.footer-links li a:hover {
+  color: #e51837;
+}
+.social-media-sec .txt p {
+  line-height: 2px;
+  font-size: 14px;
+}
+.social-media-sec .txt {
+  margin-top: 30px;
+  color: #838484;
+}
+.social-media-sec .txt .service {
+  font-size: 17px;
+  color: #acacad;
+}
+.social-media-sec .txt .service span {
+  color: #e51837;
+}
+.social-icons p {
+    margin-bottom: 3px;
+}
+.footer-logo img {
+    width: 70%;
+    margin-bottom: 13px;
+}
+.footer-links {
+    margin-top: 15px;
+    margin-bottom: 22px;
+}
+.footer-links li {
+    list-style-type: disc;
+    font-size: 8px;
+    margin: 0 0 0 16px;
+}
+@media only screen and (max-width: 1399px) {
+}
+@media only screen and (max-width: 1199px) {
+}
+
+@media only screen and (max-width: 767px) {
+}
+
+@media only screen and (max-width: 550px) {
+}
+
+@media only screen and (max-width: 480px) {
+}
